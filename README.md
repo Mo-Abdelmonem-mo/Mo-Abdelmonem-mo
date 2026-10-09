@@ -26,7 +26,7 @@ AI Product Engineering · Agentic Systems · AI Solutions · Full-Stack SaaS · 
 
 A full-stack SaaS case study covering multi-tenancy, multi-branch architecture, RBAC, clinical and business workflows, PostgreSQL, Redis, background processing, auditability, and production-oriented engineering.
 
-**[View Case Study](./case-studies/qlinic/README.md)** · **[Live Demo](https://demo.qlinic.tech/demo)**
+**[View Case Study](./case-studies/qlinic/README.md)** · **[Live Demo](https://demo.qlinic.tech/)**
 
 ## Engineering Approach
 
