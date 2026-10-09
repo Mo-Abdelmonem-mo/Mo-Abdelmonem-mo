@@ -1,6 +1,6 @@
 # QlinicPro — Multi-Tenant Veterinary Clinic SaaS
 
-[Live Demo](https://demo.qlinic.tech/demo)
+[Live Demo](https://demo.qlinic.tech/)
 
 ## Overview
 
