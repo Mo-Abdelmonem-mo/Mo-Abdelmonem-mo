@@ -34,6 +34,12 @@ An AI-native engineering case study focused on governed multi-model routing, cod
 
 **[View Case Study](./case-studies/newmirac/README.md)**
 
+### [Pawkenz AI Commerce Agent — Grounded WhatsApp Commerce Assistant](./case-studies/pawkenz/README.md)
+
+An applied AI commerce case study focused on grounded Shopify product retrieval, bounded tool use, backend-controlled response rendering, multilingual customer interactions, WhatsApp integration, and deterministic offline evaluation.
+
+**[View Case Study](./case-studies/pawkenz/README.md)** · **[Store Context](https://pawkenz.com/)**
+
 ## Engineering Approach
 
 I believe AI should amplify engineering capability, not replace engineering responsibility.
