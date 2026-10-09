@@ -20,6 +20,14 @@ AI Product Engineering · Agentic Systems · AI Solutions · Full-Stack SaaS · 
 **Infrastructure:** Docker · Nginx · Git · CI/CD  
 **AI Engineering:** LLM Integrations · AI Agents · Tool Calling · MCP · Multi-Model Workflows · Claude Code · Codex
 
+## Selected Case Study
+
+### [QlinicPro — Multi-Tenant Veterinary Clinic SaaS](./case-studies/qlinic/README.md)
+
+A full-stack SaaS case study covering multi-tenancy, multi-branch architecture, RBAC, clinical and business workflows, PostgreSQL, Redis, background processing, auditability, and production-oriented engineering.
+
+**[View Case Study](./case-studies/qlinic/README.md)** · **[Live Demo](https://demo.qlinic.tech/demo)**
+
 ## Engineering Approach
 
 I believe AI should amplify engineering capability, not replace engineering responsibility.
