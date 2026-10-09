@@ -28,11 +28,23 @@ A full-stack SaaS case study covering multi-tenancy, multi-branch architecture, 
 
 **[View Case Study](./case-studies/qlinic/README.md)** · **[Live Demo](https://demo.qlinic.tech/)**
 
+### [Manaro CRM — Multi-Tenant Business Operations SaaS](./case-studies/manaro/README.md)
+
+A business-software case study covering CRM workflows, organization-aware multi-tenancy, RBAC, auditability, PostgreSQL, Redis/Horizon, APIs, and operational SaaS architecture.
+
+**[View Case Study](./case-studies/manaro/README.md)**
+
 ### [NewMirac — Governed Multi-Model AI Engineering Platform](./case-studies/newmirac/README.md)
 
 An AI-native engineering case study focused on governed multi-model routing, coding-agent orchestration, provider/model qualification, bounded execution, human approval boundaries, MCP interfaces, and evidence-backed verification.
 
 **[View Case Study](./case-studies/newmirac/README.md)**
+
+### [GALVmed — Disease Intelligence & Evidence Platform](./case-studies/galvmed/README.md)
+
+A data-intelligence case study focused on evidence ingestion, PostgreSQL/PostGIS geospatial analytics, shared analytical contracts, dashboards, source provenance, and evidence-grounded AI workflows.
+
+**[View Case Study](./case-studies/galvmed/README.md)**
 
 ### [Pawkenz AI Commerce Agent — Grounded WhatsApp Commerce Assistant](./case-studies/pawkenz/README.md)
 
