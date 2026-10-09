@@ -20,13 +20,19 @@ AI Product Engineering · Agentic Systems · AI Solutions · Full-Stack SaaS · 
 **Infrastructure:** Docker · Nginx · Git · CI/CD  
 **AI Engineering:** LLM Integrations · AI Agents · Tool Calling · MCP · Multi-Model Workflows · Claude Code · Codex
 
-## Selected Case Study
+## Selected Case Studies
 
 ### [QlinicPro — Multi-Tenant Veterinary Clinic SaaS](./case-studies/qlinic/README.md)
 
 A full-stack SaaS case study covering multi-tenancy, multi-branch architecture, RBAC, clinical and business workflows, PostgreSQL, Redis, background processing, auditability, and production-oriented engineering.
 
 **[View Case Study](./case-studies/qlinic/README.md)** · **[Live Demo](https://demo.qlinic.tech/)**
+
+### [NewMirac — Governed Multi-Model AI Engineering Platform](./case-studies/newmirac/README.md)
+
+An AI-native engineering case study focused on governed multi-model routing, coding-agent orchestration, provider/model qualification, bounded execution, human approval boundaries, MCP interfaces, and evidence-backed verification.
+
+**[View Case Study](./case-studies/newmirac/README.md)**
 
 ## Engineering Approach
 
