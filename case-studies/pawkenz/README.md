@@ -1,27 +1,12 @@
 # Pawkenz AI Commerce Agent — Grounded WhatsApp Commerce Assistant
 
-**Operational status:** Working developer-tested AI commerce integration; **not** deployed for general customer use.
+**Operational status:** Working AI commerce application tested in a controlled development environment; customer-facing production release is not yet active.
+
+**Technology:** Node.js · TypeScript · Fastify · OpenAI API · Shopify GraphQL · WhatsApp Cloud API · PostgreSQL
+
+The Pawkenz agent searches live Shopify product information, retrieves pricing and availability, and supports controlled multilingual WhatsApp conversations. Backend safeguards keep customer-facing answers grounded in the store's data.
 
 [← Back to the project showcase](../../README.md)
-
-## What actually works
-
-- TypeScript/Fastify services implement Shopify catalog search, product details, and price/availability retrieval.
-- AI tool calls use current-turn Shopify evidence rather than invented pricing or stock claims.
-- The model proposes a constrained semantic plan; backend code validates it and constructs the reply.
-- English, Egyptian Arabic, standard Arabic, and mixed-language paths are represented in the workflow and tests.
-- Controlled real-provider tests verified OpenAI-to-Shopify retrieval and WhatsApp TEST-message processing, including a confirmed two-way reply to an approved test recipient.
-
-## Implementation evidence and boundary
-
-| Evidence | What it means |
-| --- | --- |
-| Real Shopify catalog read smoke checks | An actual commerce integration, not mock product cards |
-| Real OpenAI developer calls | LLM tool integration exercised under controlled conditions |
-| Meta WhatsApp TEST callback / message proof | Messaging transport tested with the owner's approved test account |
-| Deterministic automated evaluations | The system can be regression-tested without live provider traffic |
-
-**Not claimed:** 24/7 hosted service, live paying-customer conversations, production WhatsApp rollout, or production cart/checkout transactions. Development-store cart tests and customer-facing production deployment remain distinct.
 
 ## Overview
 
