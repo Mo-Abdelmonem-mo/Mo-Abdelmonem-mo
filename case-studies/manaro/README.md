@@ -1,5 +1,21 @@
 # Manaro CRM — Multi-Tenant Business Operations SaaS
 
+**Evidence status:** Existing documented business SaaS case study. The project implementation and current operating environment were **not independently verified from an accessible canonical repository** in this review. No public production claim is made.
+
+[← Back to the project showcase](../../README.md)
+
+## Product workflows described
+
+- Customer/organization relationships, contacts, companies, and operational activities.
+- Tenant-aware data boundaries, role-based authorization, auditability, and asynchronous work.
+- A business-software application architecture with APIs, PostgreSQL, Redis, and Laravel/React-based interfaces.
+
+## Verification boundary
+
+The case-study documentation describes functional design and engineering scope, but a current application walkthrough, deployment record, or source-of-truth runtime snapshot has not yet been independently reviewed. This entry is intentionally positioned under **Additional Engineering Work** rather than presented as a verified production deployment.
+
+**Evidence that can be added later:** a sanitized application walkthrough, a release record, or an approved screenshot from the current system. None are fabricated here.
+
 ## Overview
 
 Manaro is a CRM and business-operations SaaS platform designed around the day-to-day workflows that connect customers, companies, activities, teams, permissions, and organizational data.
@@ -135,6 +151,6 @@ Manaro demonstrates the ability to translate business operations into a structur
 
 ## Source Code & Privacy
 
-The production source code is maintained privately and is intentionally not published here.
+The underlying implementation is not published in this public profile.
 
 This case study contains only high-level, non-sensitive product and engineering information. It does not expose customer data, credentials, private configuration, internal infrastructure details, or proprietary source code.
