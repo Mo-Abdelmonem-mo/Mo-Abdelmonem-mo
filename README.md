@@ -2,75 +2,79 @@
 
 ### AI-Native Product Engineer | Forward-Deployed AI | AI Solutions | Agentic Systems | Full-Stack SaaS
 
-Computer Science graduate and software professional focused on building AI-enabled products, agentic systems, and scalable SaaS platforms.
+Computer Science graduate and software engineer building **working AI applications, full-stack SaaS products, and intelligent business systems**.
 
-My background combines software engineering, product thinking, system architecture, technical leadership, and AI-native development. I work across the full delivery cycle — from understanding business requirements and designing technical solutions to implementation, integration, testing, debugging, deployment, and production quality.
-
-I use AI coding agents and multi-model tools such as Claude Code, Codex, Cursor, ChatGPT, and Gemini as engineering accelerators, while retaining ownership of architecture, technical decisions, code review, validation, security, and delivery outcomes.
-
-## Focus
-
-AI Product Engineering · Agentic Systems · AI Solutions · Full-Stack SaaS · Software Architecture · System Design · Automation · Technical Product Delivery
+My experience spans product and technical architecture, software implementation, LLM and API integrations, automation, testing, delivery and operations. I use AI coding agents to accelerate engineering while remaining responsible for decisions, review, verification and the finished product.
 
 ## Technology
 
-**Backend:** Laravel · PHP · Python · Node.js  
-**Frontend:** React · TypeScript · Next.js  
-**Data:** PostgreSQL · Redis  
-**Infrastructure:** Docker · Nginx · Git · CI/CD  
-**AI Engineering:** LLM Integrations · AI Agents · Tool Calling · MCP · Multi-Model Workflows · Claude Code · Codex
+**AI Engineering:** LLM Integrations · Agentic Systems · Tool Calling · MCP · Multi-Model Workflows · AI Automation  
+**Backend:** Python · Django · Laravel · PHP · Node.js · REST APIs  
+**Frontend:** React · TypeScript · Next.js · Tailwind CSS  
+**Data & Infrastructure:** PostgreSQL · PostGIS · Redis · Docker · Nginx · CI/CD
 
-## Selected Case Studies
+## Featured Projects
+
+### [NewMirac — Multi-Model AI Engineering System](./case-studies/newmirac/README.md)
+
+**Working AI engineering platform (local operating environment).** Coordinates coding agents, model selection, governed task execution, MCP integrations, approval controls and engineering workflows.
+
+*Python · React · TypeScript · MCP · AI Orchestration*
+
+### [VetifyPro / Nova — AI-Assisted Veterinary Platform](./case-studies/vetifypro/README.md)
+
+**Working AI-enabled software platform with production release environments.** Combines a web application, Python/Django AI services, language-model workflows, APIs and veterinary data processing.
+
+*Python · Django · Next.js · NestJS · TypeScript · Docker*
+
+### [QVMI — Veterinary Market Intelligence & Scientific Research](./case-studies/qvmi/README.md)
+
+**Live internal production system used by the Qvetech team.** Supports scientific research, document intelligence, evidence-linked findings, market analysis, dashboards and AI-assisted reporting.
+
+*Laravel · React · PostgreSQL · Redis · AI Integrations*
+
+### [Qvetech Vet Hub — Veterinary Networking & Conference Platform](./case-studies/qvetech-vet-hub/README.md)
+
+**Live internal production platform.** Powers professional networking, communities, online conferences, live sessions, recordings, event management and organizational workflows.
+
+*Next.js · Laravel · TypeScript · LiveKit · PostgreSQL · Redis*
+
+### [Pawkenz — AI Commerce Agent](./case-studies/pawkenz/README.md)
+
+**Working AI commerce agent in a controlled development environment.** Integrates Shopify product search, pricing and availability with multilingual WhatsApp conversations and safety-controlled AI workflows. Customer-facing production launch is not yet active.
+
+*TypeScript · Fastify · OpenAI · Shopify GraphQL · WhatsApp API*
 
 ### [QlinicPro — Multi-Tenant Veterinary Clinic SaaS](./case-studies/qlinic/README.md)
 
-A full-stack SaaS case study covering multi-tenancy, multi-branch architecture, RBAC, clinical and business workflows, PostgreSQL, Redis, background processing, auditability, and production-oriented engineering.
+**Working full-stack SaaS application.** Connects clinic appointments, patient records, consultations, billing, inventory, reports and multi-branch operations.
 
-**[View Case Study](./case-studies/qlinic/README.md)** · **[Live Demo](https://demo.qlinic.tech/)**
+*Laravel · React · TypeScript · PostgreSQL · Redis* · [Product website](https://qlinic.tech/)
+
+## Additional Engineering Projects
+
+### [GALVmed — Africa Disease Intelligence Platform](./case-studies/galvmed/README.md)
+
+**Working data-intelligence application.** Combines interactive disease maps, country and disease profiles, source-linked evidence, dashboards and reporting. Public production release is not claimed.
+
+*Laravel · React · TypeScript · PostgreSQL/PostGIS*
 
 ### [Manaro CRM — Multi-Tenant Business Operations SaaS](./case-studies/manaro/README.md)
 
-A business-software case study covering CRM workflows, organization-aware multi-tenancy, RBAC, auditability, PostgreSQL, Redis/Horizon, APIs, and operational SaaS architecture.
+**Working business software project.** Brings together customer relationships, contacts, team activities, permissions, operational workflows and CRM data. Public deployment details are not provided.
 
-**[View Case Study](./case-studies/manaro/README.md)**
-
-### [NewMirac — Governed Multi-Model AI Engineering Platform](./case-studies/newmirac/README.md)
-
-An AI-native engineering case study focused on governed multi-model routing, coding-agent orchestration, provider/model qualification, bounded execution, human approval boundaries, MCP interfaces, and evidence-backed verification.
-
-**[View Case Study](./case-studies/newmirac/README.md)**
-
-### [GALVmed — Disease Intelligence & Evidence Platform](./case-studies/galvmed/README.md)
-
-A data-intelligence case study focused on evidence ingestion, PostgreSQL/PostGIS geospatial analytics, shared analytical contracts, dashboards, source provenance, and evidence-grounded AI workflows.
-
-**[View Case Study](./case-studies/galvmed/README.md)**
-
-### [Pawkenz AI Commerce Agent — Grounded WhatsApp Commerce Assistant](./case-studies/pawkenz/README.md)
-
-An applied AI commerce case study focused on grounded Shopify product retrieval, bounded tool use, backend-controlled response rendering, multilingual customer interactions, WhatsApp integration, and deterministic offline evaluation.
-
-**[View Case Study](./case-studies/pawkenz/README.md)** · **[Store Context](https://pawkenz.com/)**
+*Laravel · React · TypeScript · PostgreSQL · Redis*
 
 ## Engineering Approach
 
-I believe AI should amplify engineering capability, not replace engineering responsibility.
+I work across the delivery cycle: understanding the business problem, defining the architecture, developing end-to-end functionality, integrating software and AI services, validating behavior, and preparing systems for real operational use.
 
-My approach combines:
-- Clear requirements and system design
-- AI-assisted implementation
-- Human-reviewed architecture and code
-- Testing, debugging, and validation
-- Secure and maintainable delivery
+These case studies describe product functionality and engineering involvement. **Underlying source repositories and proprietary implementation details remain private.**
 
 ## Current Direction
 
-Currently focused on opportunities in:
-
-**AI Product Engineering · Forward Deployed AI · AI Solutions Engineering · Applied AI · Senior Product Engineering**
+AI Product Engineering · Forward Deployed AI · AI Solutions Engineering · Applied AI · Senior Full-Stack Engineering
 
 Open to remote opportunities from Egypt and relocation across the GCC.
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/mohamed-abdelmonem-ai/)
+[Connect on LinkedIn](https://www.linkedin.com/in/mohamed-abdelmonem-ai/)
