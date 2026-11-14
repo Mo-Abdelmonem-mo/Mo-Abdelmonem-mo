@@ -1,5 +1,28 @@
 # GALVmed — Disease Intelligence & Evidence Platform
 
+**Operational status:** Implemented and verified research/data-intelligence application, with documented local runtime and public-MVP technical acceptance. **Public production deployment has not been established here.**
+
+[← Back to the project showcase](../../README.md)
+
+## What the application actually does
+
+- Renders geospatial disease-evidence exploration across an Africa-specific dataset.
+- Provides country/disease views, evidence records, filtering, map exploration, and reporting surfaces.
+- Uses PostgreSQL/PostGIS and shared read-model contracts so dashboards and maps agree on core metrics.
+- Preserves source provenance and restrictions on unsupported diagnoses or outbreak predictions.
+- Uses containerized services and automated backend/frontend quality checks.
+
+## Implementation evidence
+
+| Evidence | What it means |
+| --- | --- |
+| Documented MVP technical acceptance | Implemented product surfaces were reviewed against a defined scope |
+| Local Docker-based execution and test contracts | Executable system with backend and frontend validation, not a static prototype |
+| Map/profile/report workflow contracts | Real geospatial data and evidence-handling software boundaries |
+| Public-data governance gates | Release can be technically ready while public redistribution is not authorized |
+
+**Important boundary:** Technical acceptance does not imply public hosting or permission to redistribute licensed evidence. No real-time epidemiological forecasting or clinical diagnosis is claimed.
+
 ## Overview
 
 GALVmed Disease Intelligence is a source-transparent data-intelligence platform for livestock disease information across Africa.
@@ -154,6 +177,6 @@ The core problem is the same: combine multiple data sources into a trustworthy a
 
 ## Source Code & Privacy
 
-The production source code is maintained in a **private repository** and is intentionally not published here.
+The application source code is maintained in a **private repository** and is intentionally not published here.
 
 This case study contains only high-level, non-sensitive product and engineering information. It does not expose credentials, private source data, customer information, internal configuration, or proprietary implementation code.
