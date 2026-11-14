@@ -1,14 +1,12 @@
 # QVMI — Veterinary Market Intelligence and Scientific Research
 
-**Status:** Active internal production — **owner-confirmed, 14 November 2026** | **Access:** Private corporate network; not a public SaaS service.
+**Operational status:** Working internal production application, used by the Qvetech team on the company's private network.
 
-**Core technologies:** Laravel, PHP, React, TypeScript, PostgreSQL, Redis, Horizon, Docker.
+**Technology:** Laravel · React · TypeScript · PostgreSQL · Redis · Docker · AI Integrations
+
+QVMI supports veterinary market intelligence, scientific research, source-linked knowledge, document analysis, business analytics, dashboards, and report generation through one operational platform.
 
 [← Back to the project showcase](../../README.md)
-
-## A business system used by a real team
-
-QVMI is Qvetech's internal application for veterinary market intelligence, scientific research, evidence management, and business reporting. It is an operational system used on the company's private network, rather than a static UI or source-code-only prototype.
 
 ### What the application does
 
@@ -18,16 +16,6 @@ QVMI is Qvetech's internal application for veterinary market intelligence, scien
 - Produces deterministic calculations, charts, and reporting views for business work.
 - Provides AI-assisted research and analysis workflows under explicit operational controls.
 
-## Operational evidence
-
-| Evidence | What it establishes |
-| --- | --- |
-| Product-owner confirmation on 14 November 2026 | The system is running on Qvetech's private LAN |
-| Active use from multiple team workstations | Real internal team access, not an isolated screenshot |
-| Implemented research and analytics workflows | A functioning application boundary spanning documents, data, and reports |
-| Internal deployment separated from repository main | The Git branch and the live company instance must not be treated as identical without verification |
-
-**Scope of verification:** Internal production use is confirmed by the product owner, not independently re-tested here. A specific live commit, high availability, security certification, backups, and external production access are **not** claimed.
 
 ## Engineering work
 
