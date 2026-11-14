@@ -1,5 +1,28 @@
 # QlinicPro — Multi-Tenant Veterinary Clinic SaaS
 
+**Operational status:** Implemented veterinary SaaS application with a public product website and documented demo entry point. **The public site alone does not verify live customer adoption or current demo uptime.**
+
+[← Back to the project showcase](../../README.md)
+
+## What the working application does
+
+- Gives clinic teams role-aware views across appointments, pet and client records, visits, and prescriptions.
+- Supports billing, inventory, multi-branch workflows, and operational reporting in one product.
+- Separates clinic/branch data and restricts sensitive operations through server-side authorization.
+- Runs as a full-stack application rather than a visual-only concept; the product site describes its supported clinic workflows.
+
+**Public product:** [Qlinic](https://qlinic.tech/) · **Demo entry:** [Qlinic demo login](https://demo.qlinic.tech/login) (may require credentials; external availability not independently confirmed).
+
+## Implementation evidence
+
+| Evidence | What it means |
+| --- | --- |
+| Public-facing product site | Independently viewable product description and marketed workflows |
+| Full-stack codebase documented privately | API, frontend, tenant separation, and background processing are implemented engineering areas |
+| Demo entry point | A route intended for application access, not proof of anonymous access or specific active clinic accounts |
+
+**Not claimed:** Independent security audit, specific paying-customer counts, verified current demo uptime, or unverified performance metrics.
+
 [Live Demo](https://demo.qlinic.tech/)
 
 ## Overview
