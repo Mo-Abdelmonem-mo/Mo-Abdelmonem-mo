@@ -1,14 +1,12 @@
 # Qvetech Vet Hub — Veterinary Networking and Conference Platform
 
-**Status:** Internal production / active team rollout | **Documented release:** v1.1.0-studio-rc.15, deployed **13 November 2026** | **Access:** Team-gated, not generally available to external customers.
+**Operational status:** Working internal production platform, used by Qvetech's team. Current documented release: `v1.1.0-studio-rc.15` (13 November 2026). External commercial access is still being prepared.
 
-**Core technologies:** Next.js 16, React, TypeScript, Laravel 12, PostgreSQL, Redis, WebSockets / Reverb, LiveKit, Docker.
+**Technology:** Next.js · React · TypeScript · Laravel · PostgreSQL · Redis · LiveKit · Reverb · Docker
+
+Qvetech Vet Hub brings together professional profiles, communities, online conferences, event programmes, live sessions, recordings, consultations, networking and organization management in a bilingual platform.
 
 [← Back to the project showcase](../../README.md)
-
-## An operational platform, not a concept design
-
-Qvetech Vet Hub is a full-stack platform for veterinary professionals and organizations, covering collaboration, events, conference management, and live online participation. The project has a documented internal production rollout and release verification.
 
 ### What the deployed product supports
 
@@ -18,17 +16,6 @@ Qvetech Vet Hub is a full-stack platform for veterinary professionals and organi
 - Consultations, messaging, networking, administrative controls, and role-aware experiences.
 - English and Arabic product interfaces.
 
-## Release and operating evidence
-
-| Evidence | What it establishes |
-| --- | --- |
-| Production deployment recorded for 13 November 2026 | A real release was shipped to the internal production environment |
-| v1.1.0-studio-rc.15 | The documented release identifier, not just a development branch |
-| Release-time health checks: 16/16 passed | Application and infrastructure checks passed at the deployment checkpoint |
-| Backup, restore rehearsal, migration, and verification recorded | Deployment and recovery were part of the release process |
-| Team Gate | Access is intentionally restricted to approved internal users |
-
-**Scope of verification:** These are documented *release-time* checks, not proof of continuous uptime. The current rollout is online-only and limited to one simultaneous Broadcast Studio broadcast. On-site/hybrid event check-in, live payments, and public B2B onboarding are not claimed as generally available.
 
 ## Engineering work
 
