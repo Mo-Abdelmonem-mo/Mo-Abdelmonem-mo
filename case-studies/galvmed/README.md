@@ -1,27 +1,12 @@
 # GALVmed — Disease Intelligence & Evidence Platform
 
-**Operational status:** Implemented and verified research/data-intelligence application, with documented local runtime and public-MVP technical acceptance. **Public production deployment has not been established here.**
+**Operational status:** Working data-intelligence application with implemented geospatial views, evidence exploration and reporting. Public production release is not claimed.
+
+**Technology:** Laravel · React · TypeScript · PostgreSQL/PostGIS · Redis · Docker
+
+GALVmed organizes livestock disease evidence across Africa into searchable country and disease profiles, interactive maps, source-linked records, analytical dashboards and reports.
 
 [← Back to the project showcase](../../README.md)
-
-## What the application actually does
-
-- Renders geospatial disease-evidence exploration across an Africa-specific dataset.
-- Provides country/disease views, evidence records, filtering, map exploration, and reporting surfaces.
-- Uses PostgreSQL/PostGIS and shared read-model contracts so dashboards and maps agree on core metrics.
-- Preserves source provenance and restrictions on unsupported diagnoses or outbreak predictions.
-- Uses containerized services and automated backend/frontend quality checks.
-
-## Implementation evidence
-
-| Evidence | What it means |
-| --- | --- |
-| Documented MVP technical acceptance | Implemented product surfaces were reviewed against a defined scope |
-| Local Docker-based execution and test contracts | Executable system with backend and frontend validation, not a static prototype |
-| Map/profile/report workflow contracts | Real geospatial data and evidence-handling software boundaries |
-| Public-data governance gates | Release can be technically ready while public redistribution is not authorized |
-
-**Important boundary:** Technical acceptance does not imply public hosting or permission to redistribute licensed evidence. No real-time epidemiological forecasting or clinical diagnosis is claimed.
 
 ## Overview
 
