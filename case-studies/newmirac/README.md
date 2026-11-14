@@ -1,26 +1,12 @@
 # NewMirac — Governed Multi-Model AI Engineering Platform
 
-**Operational status:** Implemented and exercised in a controlled local engineering environment; selected read/control interfaces are implemented under explicit approval boundaries. **Not claimed as an unattended cloud production service.**
+**Operational status:** Working locally operated AI engineering platform with implemented execution, routing and control interfaces; not represented as a continuously hosted cloud service.
+
+**Technology:** Python · React · TypeScript · MCP · HTTP APIs · Multi-Model AI
+
+NewMirac coordinates coding agents, model/provider routing, project-aware workflows, explicit human approvals and engineering verification. Its control interfaces provide practical access to the platform's implemented capabilities.
 
 [← Back to the project showcase](../../README.md)
-
-## What actually runs
-
-- A Python-based engineering control layer coordinates model/provider records, routing policies, and approved task execution.
-- Project-aware workflows use bounded worker permissions, with deterministic verification and human authorization gates.
-- A local HTTP/JSON interface, MCP-enabled integrations, and a React control surface provide operational access within controlled environments.
-- Model qualification separates “reachable” from “approved for this engineering role”; cost and capability limits are treated as policy inputs.
-
-## Evidence of implementation
-
-| Evidence | What it means |
-| --- | --- |
-| Governed task/verification checkpoints | The platform has been exercised against bounded engineering workflows |
-| Project-aware execution adapters and command/test gates | Integration is implemented, not a wireframe |
-| Local control and MCP interfaces | Operational control surfaces are built; not all write actions are enabled |
-| Decision and approval records | High-impact operations do not silently self-authorize |
-
-**Important boundary:** This is an evolving engineering platform with verified local capabilities. Individual routes, providers, worker launches, and external control integrations require their own activation/approval; the page does not claim that all possible automated workflows are continuously running in production.
 
 ## Overview
 
