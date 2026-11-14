@@ -1,14 +1,12 @@
 # VetifyPro / Nova Vet Family — AI-Assisted Veterinary Product Platform
 
-**Status:** Production environment and release workflow documented | **Access:** Restricted application; public marketing/product entry is not an unrestricted demo.
+**Operational status:** Working AI-assisted veterinary software platform with documented development, staging, and production environments. Access is restricted.
 
-**Core technologies:** Python, Django / DRF, Next.js, NestJS, TypeScript, gRPC, Docker, CircleCI, Kestra.
+**Technology:** Python · Django/DRF · Next.js · NestJS · TypeScript · gRPC · Docker · CI/CD
+
+VetifyPro combines an interactive veterinary product, Python-based AI services, APIs, and practice-data processing. Its AI services support language-model and transcription workflows; its web application connects through backend APIs to the wider practice-management platform.
 
 [← Back to the project showcase](../../README.md)
-
-## A working software product, not an architecture mock-up
-
-VetifyPro is part of a veterinary practice-management product ecosystem that includes a web experience, a backend-for-frontend, an AI service, and data-ingestion workflows. The software is organized into independently deployable components rather than being a single static demonstration.
 
 ### What the software does
 
@@ -18,16 +16,6 @@ VetifyPro is part of a veterinary practice-management product ecosystem that inc
 - Ingests practice-management exports through a separate pipeline for clinic and business information.
 - Keeps development, staging, and production release paths separate.
 
-## Operational evidence
-
-| Evidence | What it establishes |
-| --- | --- |
-| Documented production environment and release branch | A production release path exists for the application; not just a local design |
-| CircleCI release pipelines and per-component container builds | Software components are built and published through an operational release process |
-| Manual approval before production releases | Release authority is controlled rather than assumed from a successful build |
-| Backend and QA documentation | The Python AI service, ingestion pipeline, and browser-testing workflows have implementation and test instructions |
-
-**Scope of verification:** Repository documentation describes this delivery process and production environment. This public case study does not independently attest to current production uptime, customer adoption, or a particular deployed revision.
 
 ## Engineering work
 
